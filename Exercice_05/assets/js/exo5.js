@@ -1,5 +1,4 @@
 $(function()
 {
-  $('#secondText').empty();
-
+  $('#secondText').empty();//permet de vider
 });

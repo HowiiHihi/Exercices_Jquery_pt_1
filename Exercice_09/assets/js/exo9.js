@@ -1,5 +1,5 @@
 $(function()
 {
-  $('#firstText, #thirdText').css('border-style', 'dashed').css('border-color', 'green').css('border-width', '5px');
-
+  $('#firstText, #thirdText').css('border', '5px dashed green');
 });
+//le chainage permet de modifier plusieurs propriétés css à la fois .css().css()

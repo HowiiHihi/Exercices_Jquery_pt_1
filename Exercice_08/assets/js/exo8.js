@@ -1,5 +1,5 @@
 $(function()
 {
-  $('ol.red li').css('color', 'red');
+  $('ol > li').css('color', 'red');
 
 });

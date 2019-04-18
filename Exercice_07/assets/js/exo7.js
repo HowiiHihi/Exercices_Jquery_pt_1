@@ -1,5 +1,4 @@
 $(function()
 {
-  $('.remove').remove();
-
+  $('.remove').remove();//permet de supprimer
 });
